@@ -1,5 +1,5 @@
 # Weather-Report
-Swift app for weather report
+Weather report app made in Swift
 
 Projekat iz predmeta Mobilno poslovanje
 
